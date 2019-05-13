@@ -11,4 +11,6 @@ python+opencv 简单人脸识别
     1、创建FaceData（保存样本图片），FaceTrainer（保存训练数据）文件夹     
     2、运行 faceJC.py 获取样本     
     3、运行 face_data_training.py 获取训练数据     
-    5、运行 face_recongnition.py 查看效果     
+    5，运行face_recongnition.py查看效果     
+    
+   按 esc 退出
